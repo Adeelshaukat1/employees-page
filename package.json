@@ -1,0 +1,24 @@
+{
+  "name": "employees-page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adeelshaukat1/employees-page.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Adeelshaukat1/employees-page/issues"
+  },
+  "homepage": "https://github.com/Adeelshaukat1/employees-page#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "inquirer": "^7.0.4",
+    "jest": "^25.1.0"
+  }
+}
