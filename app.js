@@ -4,3 +4,8 @@ const Engineer = require("./js-files/engineer");
 
 const fs = require("fs");
 
+inquirer 
+    prompt([{
+        type: "input",
+        message: ""
+    }])
